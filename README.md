@@ -31,7 +31,7 @@
 	<h2>Usage</h2>
 	<p>To use these scripts, you will need to have Python 3 installed on your system. You can download Python from the official website at <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>.</p>
 	<p>To run a script, simply navigate to the directory containing the script and enter the following command in your terminal:</p>
-	<pre><code>python script_name.py</code></pre>
+	<pre><code>python3 script_name.py</code></pre>
 	<p>Replace <code>script_name.py</code> with the name of the script you want to run.</p>
 	<h2>Contributing</h2>
 	<p>If you would like to contribute to this repository, please follow these guidelines:</p>
